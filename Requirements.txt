@@ -2,3 +2,4 @@ flask
 openai
 fpdf
 python-docx
+gunicorn
